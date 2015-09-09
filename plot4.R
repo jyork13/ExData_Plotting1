@@ -1,6 +1,6 @@
 ########################################################################################################
 #
-# plot4.R v 0.0.1
+# plot4.R v 0.0.2
 #
 #       by Jim York 09/08/2015
 #
@@ -10,7 +10,7 @@
 #                               by Roger D. Peng, PhD, Jeff Leek, PhD, Brian Caffo, PhD
 #
 # This program retrieves the "Individual household electric power consumption Data Set" zipped data file
-# from the UC Irvine Machine Learning Repository and creates a multi-line graph from the Sub_metering variables
+# from the UC Irvine Machine Learning Repository and creates a 2 x 2 matrix of plots of various data
 # plotted against the day of week for the Dates 02-01-2007 and 02-02-2007 and stores the line graph as a png file.
 #
 #
